@@ -1,1 +1,1 @@
-print("歡迎報名夜間Java班")
+print("歡迎報名夜間Java班!")
